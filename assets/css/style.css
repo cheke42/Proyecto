@@ -1,0 +1,31 @@
+#navbar{
+	border-radius: 0;
+}
+
+.table-responsive thead{
+	background-color: #2196F3;
+	color: white;
+	font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 13px;
+}
+
+.table-responsive select{
+	width: 40px;
+	font-weight: bold;
+	color: #2196F3;
+}
+#toolbar{
+	margin-bottom: 10px;
+}
+
+#toolbar a{
+	margin-left: 5px;
+}
+
+
+.ui-state-active{
+	background-color: #2196F3;
+	border-color: #2196F3;
+	font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 24px;
+}
